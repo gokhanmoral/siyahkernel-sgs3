@@ -1,5 +1,5 @@
 == Building Siyah Kernel for SGS3 ==
 
 Edit build_kernel.sh script, change CROSS_COMPILE to correct path.
-Edit the path to strip on line 45 to point to the toolchain's strip binary.
+Edit the path to strip on line 44 to point to the toolchain's strip binary.
 Run build_kernel.sh
